@@ -1,6 +1,6 @@
 # 🐍 Python Programs 
 
-Welcome to my *Python Progress* repository! 
+Welcome to my *Python Progress* repository!
 This repo includes all the Python programs I created while learning and practicing Python step by step.
 
 ---
